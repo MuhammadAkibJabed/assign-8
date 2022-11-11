@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fragment+Mono&family=Nanum+Gothic:wght@400;700;800&display=swap');
+.header{
+    font-family: 'Fragment Mono', monospace;
+}
+.logo{
+    height: 100px;
+}
+.site-intro{
+    background-image: url('../../images/background\ of\ audi\ car\ lovers\ fit.jpg');
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 350px;
+}
